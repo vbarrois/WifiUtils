@@ -9,3 +9,4 @@
 .project
 /checkstyle-result.xml
 /buildSrc/build/
+/bin/
